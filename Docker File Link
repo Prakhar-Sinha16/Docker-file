@@ -1,0 +1,11 @@
+Docker file pull link:
+
+link:
+docker pull prakharsinhaaaa/dockerhub:dockerfile
+
+Above is the link to pull the my docker image that conatins git, putty, VSCode, SonarQube, MySQL, and Apache Server.
+Make sure to include any important details or dependencies that the user needs to be aware of, such as ports that need to be exposed or environmental variables that need to be set. 
+Providing clear instructions will help ensure a smooth and hassle-free experience for the user.
+
+
+Just pull the image through this link and you are ready to work. :)
