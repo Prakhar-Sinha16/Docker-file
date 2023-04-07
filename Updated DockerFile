@@ -1,0 +1,10 @@
+Updated Docker file with VSCODE, SonarQube, Putty, Git, Tomcat WebServer
+
+DockerFile:
+
+docker pull prakharsinhaaaa/dockerdevops
+
+This Dockerfile creates a container with a development environment that includes Visual Studio Code (VSCODE), SonarQube for code quality analysis, 
+Putty for secure remote connections, Git for version control, and Tomcat WebServer for hosting web applications. With this container, developers 
+can easily work on projects, analyze code quality, manage code versions, and deploy web applications in a secure and efficient manner. 
+The container is based on a lightweight Linux distribution, and all the necessary dependencies and tools are installed and configured to work seamlessly.
